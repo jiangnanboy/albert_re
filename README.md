@@ -13,6 +13,12 @@
 
 利用albert加载中文预训练模型，后接一个前馈分类网络。利用albert预训练模型进行fine-tune。
 
+albert预训练模型下载：
+
+链接：https://pan.baidu.com/s/1GSuwd6z_YG1oArnHVuN0eQ 
+
+提取码：sy12
+
 整个流程是：
 
 - 数据经albert后获取最后的隐层hidden_state=768
